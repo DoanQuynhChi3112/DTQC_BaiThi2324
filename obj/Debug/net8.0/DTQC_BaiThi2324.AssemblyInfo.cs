@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DTQC_BaiThi2324")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d08f2a7ddf3815c3456ae2c9fcc59e32f3e2a95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a579ca957c6bcc5edb5f1aa9b05f510e90f8f687")]
 [assembly: System.Reflection.AssemblyProductAttribute("DTQC_BaiThi2324")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DTQC_BaiThi2324")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
