@@ -1,0 +1,30 @@
+@model DTQC_BaiThi2324.Models.DTQC114Person
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>DTQC114Person</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DTQC114Age)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DTQC114Age)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DTQC114Ngaysinh)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DTQC114Ngaysinh)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.DTQC114PersonID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
