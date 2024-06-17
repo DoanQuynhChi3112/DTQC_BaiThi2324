@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\DTQC_BaiThi2324\DTQC_BaiThi2324
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/DTQC_BaiThi2324/DTQC_BaiThi2324/Views/DTQC114Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFRRQzExNEVtcGxveWVlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DTQC_BaiThi2324/DTQC_BaiThi2324/Views/DTQC114Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFRRQzExNEVtcGxveWVlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DTQC_BaiThi2324/DTQC_BaiThi2324/Views/DTQC114Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFRRQzExNEVtcGxveWVlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DTQC_BaiThi2324/DTQC_BaiThi2324/Views/DTQC114Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFRRQzExNEVtcGxveWVlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DTQC_BaiThi2324/DTQC_BaiThi2324/Views/DTQC114Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFRRQzExNEVtcGxveWVlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/DTQC_BaiThi2324/DTQC_BaiThi2324/Views/DTQC114Person/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRFRRQzExNFBlcnNvblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
